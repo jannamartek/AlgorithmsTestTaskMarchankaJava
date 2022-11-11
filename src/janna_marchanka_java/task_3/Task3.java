@@ -4,7 +4,7 @@ public class Task3 {
 
     public static void printArray(int[] values) {
         for (int i = 0; i < values.length; i++) {
-            System.out.print("\n Ýëåìåíòû ìàññèâà êðàòíûå 3: " + values[i] + " ");
+            System.out.print("\n Ð­Ð»ÐµÐ¼ÐµÐ½Ñ‚Ñ‹ Ð¼Ð°ÑÑÐ¸Ð²Ð° ÐºÑ€Ð°Ñ‚Ð½Ñ‹Ðµ 3: " + values[i] + " ");
         }
         System.out.println();
     }
